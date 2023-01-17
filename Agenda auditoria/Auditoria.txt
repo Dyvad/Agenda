@@ -1,0 +1,17 @@
+Se ha accedido al sistema en la fecha y hora:2023/01/17 18:45:20
+Ha accedido Marcos con la opción 3.Modificar contacto
+Ha modificado el contacto: Rodri Ortado 8949
+A el contacto Rodrigo Ortado 8749
+
+Se ha accedido al sistema en la fecha y hora:2023/01/17 18:46:32
+Ha accedido Ruben con la opción 1.Listar contactos
+Ha listado los contactos de Contactos.txt
+
+Se ha accedido al sistema en la fecha y hora:2023/01/17 18:47:25
+Ha accedido Pepe con la opción 1.Listar contactos
+Ha listado los contactos de Contactos.txt
+
+Se ha accedido al sistema en la fecha y hora:2023/01/17 18:48:05
+Ha accedido Ruben con la opción 3.Modificar contacto
+Ha modificado el contacto: Rodrigo Ortado 8749
+A el contacto Rodrigo Ortado 8747
